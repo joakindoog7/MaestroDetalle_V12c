@@ -6,6 +6,6 @@ Formación con ADF en AYI Group.
 
 Profesor: Paliza, Martín.
 
-Integrantes: Gatica, Emmanuel David.
+Integrantes: Cortez, Gerardo Joaquin. 
 
 Los detalles de los componentes y el paso a paso se irán incluyendo a la brevedad.
